@@ -25,7 +25,7 @@ The contract has two functions: mint and burn. The mint function increases the t
 
 ## Authors
 
-Dishita
+Dishita Kolhekar
 
 
 
